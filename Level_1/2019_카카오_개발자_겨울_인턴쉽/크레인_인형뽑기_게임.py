@@ -1,3 +1,8 @@
+"""
+알고리즘 문제 링크 
+https://programmers.co.kr/learn/courses/30/lessons/64061?language=python3
+"""
+
 def solution(board, moves):
     answer = 0
     stack = list()
